@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  I am an AI/ML engineer from Portugal, currently seeking opportunities in Berlin, Germany.
+  I am an AI/ML engineer from Portugal! <!--, currently seeking opportunities in Berlin, Germany.-->
 </p>
 <p align='center'>
   My fields of interest include Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.<br>
